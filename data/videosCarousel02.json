@@ -1,0 +1,34 @@
+
+{
+    "videos": [
+      {
+        "id": "00",
+        "cliente": "HSM",
+        "nombreVideo": "Etapa DISPO",
+        "fecha": "25/02/21",
+        "url": "./img/Dispo_1.mp4"
+      },
+      {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Al virus los frenamos",
+        "fecha": "25/02/21",
+        "url": "./img/alVirusLoFrenamos.mp4"
+      },
+      {
+        "id": "04",
+        "cliente": "Vecinos",
+        "nombreVideo": "Tortuga Perdida",
+        "fecha": "8/04/21",
+        "url": "./img/tortugaPerdida.mp4"
+      },
+      {
+        "id": "05",
+        "cliente": "HSM",
+        "nombreVideo": "Telefonos COVID",
+        "fecha": "25/02/21",
+        "url": "./img/telefonosCovid.mp4"
+      }
+
+    ]
+}

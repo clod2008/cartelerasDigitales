@@ -1,0 +1,1 @@
+start chrome.exe --incognito --kiosk  %cd%\01_SistemaOffLine_V-2\startUpHSM.html

@@ -1,0 +1,22 @@
+#contenedor {
+    background-color: #aed036;
+    min-width: 100%;
+    min-height: 100vh;
+
+}
+
+#logo {
+    margin: auto;
+    padding-top: 20vh;
+}
+
+#loadingGif {
+    margin: auto;
+    padding-top: 10vh;
+}
+
+#loadingGif h1 {
+    color: white;
+    margin: auto;
+    text-align: center;
+}

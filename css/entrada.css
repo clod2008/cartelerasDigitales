@@ -1,0 +1,56 @@
+body {
+    background-color: #cecdce;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#carouselExampleInterval1, #carouselExampleInterval2, #carouselExampleInterval3 {
+    min-height: 33.3333333vh;
+}
+
+#carouselExampleInterval1{
+    background-image: url(../img/Carpeta\ ventas\ abril\ 2021-42.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#carouselExampleInterval2{
+    background-image: url(../img/Carpeta\ ventas\ abril\ 2021-43.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#carouselExampleInterval3{
+    background-image: url(../img/Carpeta\ ventas\ abril\ 2021-44.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.marco {
+    position:absolute;
+    float: left;
+    z-index: 10;
+    height: 100% !important;
+    width: 100%;
+    background-image: url('../img/nuevo layaut_Frame 768 x 452.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#contenedorPopUp{
+    z-index: 50;
+    position: absolute;
+    width: 100vw;
+    bottom: 0;
+    height: 66.6vh;
+    background-color: transparent;
+
+}
+
+.marcoPopUp {
+    position:absolute;
+    float: left;
+    z-index: 60;
+    height: 100%;
+    width: 100%;
+    background-image: url('../img/nuevo layaut_Frame 768 x 904.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

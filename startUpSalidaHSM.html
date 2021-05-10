@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <title>Entrada HSM</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- meta para no cache -->
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Last-Modified" content="0">
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.css" >
+
+    <!-- Css propios -->
+    <link rel="stylesheet" href="./css/startUpHSM.css">
+    
+  </head>
+  <body>
+      <div class="container-fluid" id="contenedor">
+        <div id="logo" class="col-md-4">
+          <img src="./img/SVG/logoLookStyleNegativo.svg" alt="">
+        </div>
+        <div id="loadingGif" class="col-md-3">
+          <img  src="./img/loading.gif" class="img-fluid" alt="Responsive image">
+          <br>
+          <br>
+          <br>
+          <h1><label id="countdown"></label></h1>
+        </div>
+
+      </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="./node_modules/jquery/dist/jquery.js"></script>
+    <script src="./node_modules/popper.js/dist/popper.js"></script>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.js"></script>
+
+    <script>
+        ///////// CONTADOR ////////
+        let cont = 0;
+        const espera = 60;
+        let seg = espera;
+
+        function contador() {
+        const contador = document.getElementById("contador");
+
+        cont++;
+        if (cont % 12 == 0) {
+            // <= define el intervalo en segundos
+            console.log("Tiempo");
+    
+        }
+        // Redireccionamiento 
+        if (cont > espera){
+            window.location = "http://localhost/SalidaHSM.html";
+            console.log('espera terminada');
+        }
+
+        }
+        setInterval("contador()", 1000); //Define lo que dura un segundo
+        ///////// CONTADOR ////////
+
+        var seconds = espera; //número de segundos a contar
+        function secondPassed() {
+
+          var minutes = Math.trunc(seconds/60); //calcula el número de minutos
+          var remainingSeconds = seconds % 60; //calcula los segundos restantes
+          //si los segundos usan sólo un dígito, añadimos un cero a la izq
+          if (remainingSeconds < 10) { 
+            remainingSeconds = "0" + remainingSeconds; 
+          } 
+          document.getElementById('countdown').innerHTML = minutes + ":" +     remainingSeconds; 
+          if (seconds == 0) { 
+            clearInterval(countdownTimer); 
+            // alert('Se acabó el tiempo'); 
+            document.getElementById('countdown').innerHTML = "Iniciando ..."; 
+          } else { 
+            seconds--; 
+          } 
+        } 
+
+        var countdownTimer = setInterval(secondPassed, 1000);
+
+
+    </script>
+</body>
+</html>
