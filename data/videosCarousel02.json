@@ -9,6 +9,13 @@
         "url": "./img/Dispo_1.mp4"
       },
       {
+        "id": "06",
+        "cliente": "Canil",
+        "nombreVideo": "Canil 01 Fiona ",
+        "fecha": "11/05/21",
+        "url": "./img/Canil01_Fiona.mp4"
+      },
+      {
         "id": "03",
         "cliente": "HSM",
         "nombreVideo": "Al virus los frenamos",
@@ -21,6 +28,13 @@
         "nombreVideo": "Tortuga Perdida",
         "fecha": "8/04/21",
         "url": "./img/tortugaPerdida.mp4"
+      },
+      {
+        "id": "07",
+        "cliente": "Canil",
+        "nombreVideo": "Canil 02 Fiona ",
+        "fecha": "11/05/21",
+        "url": "./img/Canil02Akira.mp4"
       },
       {
         "id": "05",
