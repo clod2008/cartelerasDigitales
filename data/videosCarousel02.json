@@ -1,4 +1,3 @@
-
 {
     "videos": [
       {
@@ -9,11 +8,25 @@
         "url": "./img/Dispo_1.mp4"
       },
       {
+        "id": "08",
+        "cliente": "Sociales",
+        "nombreVideo": "25 de mayo A",
+        "fecha": "20/05/21",
+        "url": "./img/25_de_Mayo_2021-A.mp4"
+      },
+      {
         "id": "06",
         "cliente": "Canil",
         "nombreVideo": "Canil 01 Fiona ",
         "fecha": "11/05/21",
         "url": "./img/Canil01_Fiona.mp4"
+      },
+      {
+        "id": "09",
+        "cliente": "Sociales",
+        "nombreVideo": "25 de mayo B",
+        "fecha": "20/05/21",
+        "url": "./img/25_de_Mayo_2021-B.mp4"
       },
       {
         "id": "03",
@@ -23,11 +36,25 @@
         "url": "./img/alVirusLoFrenamos.mp4"
       },
       {
+        "id": "10",
+        "cliente": "Sociales",
+        "nombreVideo": "25 de mayo C",
+        "fecha": "20/05/21",
+        "url": "./img/25_de_Mayo_2021-C.mp4"
+      },
+      {
         "id": "04",
         "cliente": "Vecinos",
         "nombreVideo": "Tortuga Perdida",
         "fecha": "8/04/21",
         "url": "./img/tortugaPerdida.mp4"
+      },
+      {
+        "id": "08",
+        "cliente": "Sociales",
+        "nombreVideo": "25 de mayo A",
+        "fecha": "20/05/21",
+        "url": "./img/25_de_Mayo_2021-A.mp4"
       },
       {
         "id": "07",
@@ -37,12 +64,25 @@
         "url": "./img/Canil02Akira.mp4"
       },
       {
+        "id": "09",
+        "cliente": "Sociales",
+        "nombreVideo": "25 de mayo B",
+        "fecha": "20/05/21",
+        "url": "./img/25_de_Mayo_2021-B.mp4"
+      },
+      {
         "id": "05",
         "cliente": "HSM",
         "nombreVideo": "Telefonos COVID",
         "fecha": "25/02/21",
         "url": "./img/telefonosCovid.mp4"
+      },
+      {
+        "id": "10",
+        "cliente": "Sociales",
+        "nombreVideo": "25 de mayo C",
+        "fecha": "20/05/21",
+        "url": "./img/25_de_Mayo_2021-C.mp4"
       }
-
     ]
 }
