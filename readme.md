@@ -22,10 +22,23 @@ _Desarrollo e implementación de un sistema de difusión de contenidos con actua
 ## Método de actualización
 * Upload de los contenidos multimedia via G-drive
 * Edición de un Json con los URL y la meta-data
-## Proyecto activo 🚀
-_Este proyecto esta optimizado para pantallas verticales_
+
+### Datos
+* data/videosCarousel01.json
+* data/videosCarousel02.json
+* data/videosCarousel03.json
+* data/videosPopUp.json
+#### Fragmento de Json
 ```
-Ajustar el tamaño de la ventana usando las herramientas de desarrollados del navegado
+"videos": [
+      {
+        "id": "00",
+        "cliente": "HSM",
+        "nombreVideo": "Veliocidades maximas",
+        "fecha": "25/02/21",
+        "url": "./img/velMax.mp4"
+      },
 ```
-* [Pantalla de Entrada del Haras Santa Maria]()
-* [Pantalla de Salida del Haras Santa Maria]()
+### js
+* js/entrada.js
+* js/salida.js
