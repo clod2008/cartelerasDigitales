@@ -1,4 +1,4 @@
-# Sitema de Cartelería digital
+# Sistema de Cartelería digital
 _Desarrollo e implementación de un sistema de difusión de contenidos con actualización remota. El sistema corre en un local host y se actualiza mediante G-drive._
 ## Tareas realizadas en este proyecto
 
