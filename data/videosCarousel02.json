@@ -8,6 +8,13 @@
         "url": "./img/Dispo_1.mp4"
       },
       {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
+      },
+      {
         "id": "08",
         "cliente": "Sociales",
         "nombreVideo": "25 de mayo A",
@@ -15,11 +22,25 @@
         "url": "./img/25_de_Mayo_2021-A.mp4"
       },
       {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
+      },
+      {
         "id": "06",
         "cliente": "Canil",
         "nombreVideo": "Canil 01 Fiona ",
         "fecha": "11/05/21",
         "url": "./img/Canil01_Fiona.mp4"
+      },
+      {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
       },
       {
         "id": "09",
@@ -31,9 +52,23 @@
       {
         "id": "03",
         "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
+      },
+      {
+        "id": "003",
+        "cliente": "HSM",
         "nombreVideo": "Al virus los frenamos",
         "fecha": "25/02/21",
         "url": "./img/alVirusLoFrenamos.mp4"
+      },
+      {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
       },
       {
         "id": "10",
@@ -43,11 +78,25 @@
         "url": "./img/25_de_Mayo_2021-C.mp4"
       },
       {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
+      },
+      {
         "id": "04",
         "cliente": "Vecinos",
         "nombreVideo": "Tortuga Perdida",
         "fecha": "8/04/21",
         "url": "./img/tortugaPerdida.mp4"
+      },
+      {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
       },
       {
         "id": "08",
@@ -57,11 +106,25 @@
         "url": "./img/25_de_Mayo_2021-A.mp4"
       },
       {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
+      },
+      {
         "id": "07",
         "cliente": "Canil",
         "nombreVideo": "Canil 02 Akira ",
         "fecha": "15/06/21",
         "url": "./img/Canil02Akira-ADOP.mp4"
+      },
+      {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
       },
       {
         "id": "09",
@@ -71,11 +134,25 @@
         "url": "./img/25_de_Mayo_2021-B.mp4"
       },
       {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
+      },
+      {
         "id": "05",
         "cliente": "HSM",
         "nombreVideo": "Telefonos COVID",
         "fecha": "25/02/21",
         "url": "./img/telefonosCovid.mp4"
+      },
+      {
+        "id": "03",
+        "cliente": "HSM",
+        "nombreVideo": "Campaña Donacion de sangre",
+        "fecha": "18/06/21",
+        "url": "./img/camp-donacion-sangre.mp4"
       },
       {
         "id": "10",
