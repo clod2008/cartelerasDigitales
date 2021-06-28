@@ -9,13 +9,6 @@
         "url": "./img/velMax.mp4"
       },
       {
-        "id": "03",
-        "cliente": "HSM",
-        "nombreVideo": "Campaña Donacion de sangre",
-        "fecha": "18/06/21",
-        "url": "./img/camp-donacion-sangre-GRACIAS.mp4"
-      },
-      {
         "id": "01",
         "cliente": "HSM",
         "nombreVideo": "Nuevo Canal WhApp",
@@ -23,25 +16,11 @@
         "url": "./img/nuevoCanal.mp4"
       },
       {
-        "id": "03",
-        "cliente": "HSM",
-        "nombreVideo": "Campaña Donacion de sangre",
-        "fecha": "18/06/21",
-        "url": "./img/camp-donacion-sangre-GRACIAS.mp4"
-      },
-      {
         "id": "02",
         "cliente": "HSM",
         "nombreVideo": "Cancha de futbol",
         "fecha": "25/02/21",
         "url": "./img/canchaDeFutbol.mp4"
-      },
-      {
-        "id": "03",
-        "cliente": "HSM",
-        "nombreVideo": "Campaña Donacion de sangre",
-        "fecha": "18/06/21",
-        "url": "./img/camp-donacion-sangre-GRACIAS.mp4"
       }
     ]
 }
