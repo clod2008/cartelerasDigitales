@@ -13,7 +13,7 @@
         "cliente": "HSM",
         "nombreVideo": "Campaña Donacion de sangre",
         "fecha": "18/06/21",
-        "url": "./img/camp-donacion-sangre.mp4"
+        "url": "./img/camp-donacion-sangre-GRACIAS.mp4"
       },
       {
         "id": "01",
@@ -27,7 +27,7 @@
         "cliente": "HSM",
         "nombreVideo": "Campaña Donacion de sangre",
         "fecha": "18/06/21",
-        "url": "./img/camp-donacion-sangre.mp4"
+        "url": "./img/camp-donacion-sangre-GRACIAS.mp4"
       },
       {
         "id": "02",
@@ -41,7 +41,7 @@
         "cliente": "HSM",
         "nombreVideo": "Campaña Donacion de sangre",
         "fecha": "18/06/21",
-        "url": "./img/camp-donacion-sangre.mp4"
+        "url": "./img/camp-donacion-sangre-GRACIAS.mp4"
       }
     ]
 }
