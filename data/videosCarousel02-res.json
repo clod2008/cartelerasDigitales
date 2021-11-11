@@ -9,11 +9,25 @@
         "url": "./img/Dispo_1.mp4"
       },
       {
+        "id": "06",
+        "cliente": "HSM",
+        "nombreVideo": "Aniversario",
+        "fecha": "07/10/21",
+        "url": "./img/Aniversario.mp4"
+      },
+      {
         "id": "02",
         "cliente": "Vecinos",
         "nombreVideo": "Buscamos a RON",
         "fecha": "25/02/21",
         "url": "./img/buscamosARon.mp4"
+      },
+      {
+        "id": "06",
+        "cliente": "HSM",
+        "nombreVideo": "Aniversario",
+        "fecha": "07/10/21",
+        "url": "./img/Aniversario.mp4"
       },
       {
         "id": "03",
@@ -23,6 +37,13 @@
         "url": "./img/alVirusLoFrenamos.mp4"
       },
       {
+        "id": "06",
+        "cliente": "HSM",
+        "nombreVideo": "Aniversario",
+        "fecha": "07/10/21",
+        "url": "./img/Aniversario.mp4"
+      },
+      {
         "id": "04",
         "cliente": "Vecinos",
         "nombreVideo": "Tortuga Perdida",
@@ -30,11 +51,25 @@
         "url": "./img/tortugaPerdida.mp4"
       },
       {
+        "id": "06",
+        "cliente": "HSM",
+        "nombreVideo": "Aniversario",
+        "fecha": "07/10/21",
+        "url": "./img/Aniversario.mp4"
+      },
+      {
         "id": "05",
         "cliente": "HSM",
         "nombreVideo": "Telefonos COVID",
         "fecha": "25/02/21",
         "url": "./img/telefonosCovid.mp4"
+      },
+      {
+        "id": "06",
+        "cliente": "HSM",
+        "nombreVideo": "Aniversario",
+        "fecha": "07/10/21",
+        "url": "./img/Aniversario.mp4"
       }
 
     ]

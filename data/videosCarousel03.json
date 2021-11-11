@@ -61,9 +61,17 @@
         "id": "06",
         "cliente": "AguaAzul",
         "nombreVideo": "salida01 (unico video)",
-        "sponsor": "plata",
+        "sponsor": "bronce",
         "fecha": "8/02/21",
         "url": "./img/AguaAzul 768 x 452 Salida Nov 2020_3.mp4"
+      },
+      {
+        "id": "20",
+        "cliente": "Zen HSM",
+        "nombreVideo": "salida01",
+        "sponsor": "plata",
+        "fecha": "5/11/21",
+        "url": "./img/Zen Noviembre 01.mp4"
       },
       {
         "id": "07",
@@ -138,6 +146,14 @@
         "url": "./img/AguaAzul 768 x 452 Salida Nov 2020_3.mp4"
       },
       {
+        "id": "20",
+        "cliente": "Zen HSM",
+        "nombreVideo": "salida01",
+        "sponsor": "plata",
+        "fecha": "5/11/21",
+        "url": "./img/Zen Noviembre 01.mp4"
+      },
+      {
         "id": "15",
         "cliente": "Maidana Prop",
         "nombreVideo": "salida03",
@@ -176,6 +192,14 @@
         "sponsor": "oro",
         "fecha": "18/06/21",
         "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
+      },
+      {
+        "id": "20",
+        "cliente": "Zen HSM",
+        "nombreVideo": "salida01",
+        "sponsor": "plata",
+        "fecha": "5/11/21",
+        "url": "./img/Zen Noviembre 01.mp4"
       }
       
     ]
