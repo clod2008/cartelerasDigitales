@@ -42,3 +42,7 @@ _Desarrollo e implementación de un sistema de difusión de contenidos con actua
 ### js
 * js/entrada.js
 * js/salida.js
+
+### Inicio desde 
+* entradaHSM.html
+* SalidaHSM.html
