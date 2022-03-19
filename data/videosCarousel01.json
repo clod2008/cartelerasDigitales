@@ -9,13 +9,6 @@
         "url": "./img/velMax.mp4"
       },
       {
-        "id": "10",
-        "cliente": "Adm",
-        "nombreVideo": "Campaña donacio",
-        "fecha": "27/10/21",
-        "url": "./img/DonarSangre2.mp4"
-      },
-      {
         "id": "01",
         "cliente": "HSM",
         "nombreVideo": "Nuevo Canal WhApp",
@@ -23,25 +16,11 @@
         "url": "./img/nuevoCanal.mp4"
       },
       {
-        "id": "10",
-        "cliente": "Adm",
-        "nombreVideo": "Campaña donacio",
-        "fecha": "27/10/21",
-        "url": "./img/DonarSangre2.mp4"
-      },
-      {
         "id": "02",
         "cliente": "HSM",
         "nombreVideo": "Cancha de futbol",
         "fecha": "25/02/21",
         "url": "./img/canchaDeFutbol.mp4"
-      },
-      {
-        "id": "10",
-        "cliente": "Adm",
-        "nombreVideo": "Campaña donacio",
-        "fecha": "27/10/21",
-        "url": "./img/DonarSangre2.mp4"
       }
     ]
 }
