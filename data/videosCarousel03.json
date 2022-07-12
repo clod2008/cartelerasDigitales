@@ -1,206 +1,204 @@
-
 {
-    "videos": [
-      {
-        "id": "00",
-        "cliente": "Maidana Prop",
-        "nombreVideo": "salida01",
-        "sponsor": "oro",
-        "fecha": "25/02/21",
-        "url": "./img/Salids Maidana Septiembre 1.mp4"
-      },
-      {
-        "id": "03",
-        "cliente": "Planalto",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "18/06/21",
-        "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
-      },
-      {
-        "id": "01",
-        "cliente": "Materiales del Haras",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "25/02/21",
-        "url": "./img/materialesElHaras-abril2021.mp4"
-      },
-      {
-        "id": "02",
-        "cliente": "Sky Terra",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "8/02/21",
-        "url": "./img/Salida SkyTerra 01.mp4"
-      },
-      {
-        "id": "03",
-        "cliente": "Planalto",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "18/06/21",
-        "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
-      },
-      {
-        "id": "04",
-        "cliente": "Glenda",
-        "nombreVideo": "salida01 limpieza",
-        "sponsor": "plata",
-        "fecha": "8/04/21",
-        "url": "./img/GM dental 768 x 452 Placa 1.mp4"
-      },
-      {
-        "id": "05",
-        "cliente": "CongeladosEscobar",
-        "nombreVideo": "salida01",
-        "sponsor": "plata",
-        "fecha": "8/02/21",
-        "url": "./img/Congelados Escobar spot 01.mp4"
-      },
-      {
-        "id": "06",
-        "cliente": "AguaAzul",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "bronce",
-        "fecha": "8/02/21",
-        "url": "./img/AguaAzul 768 x 452 Salida Nov 2020_3.mp4"
-      },
-      {
-        "id": "20",
-        "cliente": "Zen HSM",
-        "nombreVideo": "salida01",
-        "sponsor": "plata",
-        "fecha": "5/11/21",
-        "url": "./img/ZEN-HSM-11-11-2021.mp4"
-      },
-      {
-        "id": "07",
-        "cliente": "Fede",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "bronce",
-        "fecha": "25/02/21",
-        "url": "./img/Amster 768 x 452 1.mp4"
-      },
-      {
-        "id": "08",
-        "cliente": "Maidana Prop",
-        "nombreVideo": "salida02",
-        "sponsor": "oro",
-        "fecha": "25/02/21",
-        "url": "./img/Salids Maidana Septiembre 2.mp4"
-      },
-      {
-        "id": "03",
-        "cliente": "Planalto",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "18/06/21",
-        "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
-      },
-      {
-        "id": "09",
-        "cliente": "Materiales del Haras",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "25/02/21",
-        "url": "./img/materialesElHaras-abril2021.mp4"
-      },
-      {
-        "id": "10",
-        "cliente": "Sky Terra",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "8/02/21",
-        "url": "./img/Salida SkyTerra 01.mp4"
-      },
-      {
-        "id": "11",
-        "cliente": "Planalto",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "18/06/21",
-        "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
-      },
-      {
-        "id": "12",
-        "cliente": "Glenda",
-        "nombreVideo": "salida02 limpieza",
-        "sponsor": "plata",
-        "fecha": "8/04/21",
-        "url": "./img/GM dental 768 x 452 Placa 2.mp4"
-      },
-      {
-        "id": "13",
-        "cliente": "CongeladosEscobar",
-        "nombreVideo": "salida02",
-        "sponsor": "plata",
-        "fecha": "8/02/21",
-        "url": "./img/Congelados Escobar spot 02.mp4"
-      },
-      {
-        "id": "14",
-        "cliente": "AguaAzul",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "plata",
-        "fecha": "8/02/21",
-        "url": "./img/AguaAzul 768 x 452 Salida Nov 2020_3.mp4"
-      },
-      {
-        "id": "20",
-        "cliente": "Zen HSM",
-        "nombreVideo": "salida01",
-        "sponsor": "plata",
-        "fecha": "5/11/21",
-        "url": "./img/ZEN-HSM-11-11-2021.mp4"
-      },
-      {
-        "id": "15",
-        "cliente": "Maidana Prop",
-        "nombreVideo": "salida03",
-        "sponsor": "oro",
-        "fecha": "25/02/21",
-        "url": "./img/Salids Maidana Septiembre 3.mp4"
-      },
-      {
-        "id": "03",
-        "cliente": "Planalto",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "18/06/21",
-        "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
-      },
-      {
-        "id": "16",
-        "cliente": "Materiales del Haras",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "25/02/21",
-        "url": "./img/materialesElHaras-abril2021.mp4"
-      },
-      {
-        "id": "17",
-        "cliente": "Sky Terra",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "8/02/21",
-        "url": "./img/Salida SkyTerra 01.mp4"
-      },
-      {
-        "id": "18",
-        "cliente": "Planalto",
-        "nombreVideo": "salida01 (unico video)",
-        "sponsor": "oro",
-        "fecha": "18/06/21",
-        "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
-      },
-      {
-        "id": "20",
-        "cliente": "Zen HSM",
-        "nombreVideo": "salida01",
-        "sponsor": "plata",
-        "fecha": "5/11/21",
-        "url": "./img/ZEN-HSM-11-11-2021.mp4"
-      }
-      
-    ]
-  }
+  "videos": [
+    {
+      "id": "00",
+      "cliente": "Maidana Prop",
+      "nombreVideo": "salida01",
+      "sponsor": "oro",
+      "fecha": "25/02/21",
+      "url": "./img/Salids Maidana Septiembre 1.mp4"
+    },
+    {
+      "id": "03",
+      "cliente": "Planalto",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "18/06/21",
+      "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
+    },
+    {
+      "id": "01",
+      "cliente": "Materiales del Haras",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "25/02/21",
+      "url": "./img/materialesElHaras-abril2021.mp4"
+    },
+    {
+      "id": "02",
+      "cliente": "Sky Terra",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "13/06/2022",
+      "url": "./img/Skiterra-06-2022.mp4"
+    },
+    {
+      "id": "03",
+      "cliente": "Planalto",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "18/06/21",
+      "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
+    },
+    {
+      "id": "04",
+      "cliente": "Glenda",
+      "nombreVideo": "salida01 limpieza",
+      "sponsor": "plata",
+      "fecha": "8/04/21",
+      "url": "./img/GM dental 768 x 452 Placa 1.mp4"
+    },
+    {
+      "id": "05",
+      "cliente": "CongeladosEscobar",
+      "nombreVideo": "salida01",
+      "sponsor": "plata",
+      "fecha": "8/02/21",
+      "url": "./img/Congelados Escobar spot 01.mp4"
+    },
+    {
+      "id": "06",
+      "cliente": "AguaAzul",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "bronce",
+      "fecha": "8/02/21",
+      "url": "./img/AguaAzul 768 x 452 Salida Nov 2020_3.mp4"
+    },
+    {
+      "id": "20",
+      "cliente": "Zen HSM",
+      "nombreVideo": "salida01",
+      "sponsor": "plata",
+      "fecha": "5/11/21",
+      "url": "./img/ZEN-HSM-11-11-2021.mp4"
+    },
+    {
+      "id": "07",
+      "cliente": "Fede",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "bronce",
+      "fecha": "25/02/21",
+      "url": "./img/Amster 768 x 452 1.mp4"
+    },
+    {
+      "id": "08",
+      "cliente": "Maidana Prop",
+      "nombreVideo": "salida02",
+      "sponsor": "oro",
+      "fecha": "25/02/21",
+      "url": "./img/Salids Maidana Septiembre 2.mp4"
+    },
+    {
+      "id": "03",
+      "cliente": "Planalto",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "18/06/21",
+      "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
+    },
+    {
+      "id": "09",
+      "cliente": "Materiales del Haras",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "25/02/21",
+      "url": "./img/materialesElHaras-abril2021.mp4"
+    },
+    {
+      "id": "10",
+      "cliente": "Sky Terra",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "13/06/2022",
+      "url": "./img/Skiterra-06-2022.mp4"
+    },
+    {
+      "id": "11",
+      "cliente": "Planalto",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "18/06/21",
+      "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
+    },
+    {
+      "id": "12",
+      "cliente": "Glenda",
+      "nombreVideo": "salida02 limpieza",
+      "sponsor": "plata",
+      "fecha": "8/04/21",
+      "url": "./img/GM dental 768 x 452 Placa 2.mp4"
+    },
+    {
+      "id": "13",
+      "cliente": "CongeladosEscobar",
+      "nombreVideo": "salida02",
+      "sponsor": "plata",
+      "fecha": "8/02/21",
+      "url": "./img/Congelados Escobar spot 02.mp4"
+    },
+    {
+      "id": "14",
+      "cliente": "AguaAzul",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "plata",
+      "fecha": "8/02/21",
+      "url": "./img/AguaAzul 768 x 452 Salida Nov 2020_3.mp4"
+    },
+    {
+      "id": "20",
+      "cliente": "Zen HSM",
+      "nombreVideo": "salida01",
+      "sponsor": "plata",
+      "fecha": "5/11/21",
+      "url": "./img/ZEN-HSM-11-11-2021.mp4"
+    },
+    {
+      "id": "15",
+      "cliente": "Maidana Prop",
+      "nombreVideo": "salida03",
+      "sponsor": "oro",
+      "fecha": "25/02/21",
+      "url": "./img/Salids Maidana Septiembre 3.mp4"
+    },
+    {
+      "id": "03",
+      "cliente": "Planalto",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "18/06/21",
+      "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
+    },
+    {
+      "id": "16",
+      "cliente": "Materiales del Haras",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "25/02/21",
+      "url": "./img/materialesElHaras-abril2021.mp4"
+    },
+    {
+      "id": "17",
+      "cliente": "Sky Terra",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "13/06/2022",
+      "url": "./img/Skiterra-06-2022.mp4"
+    },
+    {
+      "id": "18",
+      "cliente": "Planalto",
+      "nombreVideo": "salida01 (unico video)",
+      "sponsor": "oro",
+      "fecha": "18/06/21",
+      "url": "./img/Planalto-21-Salida-AGOSTO.mp4"
+    },
+    {
+      "id": "20",
+      "cliente": "Zen HSM",
+      "nombreVideo": "salida01",
+      "sponsor": "plata",
+      "fecha": "5/11/21",
+      "url": "./img/ZEN-HSM-11-11-2021.mp4"
+    }
+  ]
+}

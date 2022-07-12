@@ -1,101 +1,100 @@
-
 {
-    "videos": [
-      {
-        "id": "00",
-        "cliente": "Materiales el Haras",
-        "nombreVideo": "PopUp salida 01 (unico video)",
-        "dataInterval": "12000",
-        "fecha": "25/02/21",
-        "url": "./img/PopUp-MaterialesHaras.mp4"
-      },
-      {
-        "id": "01",
-        "cliente": "LockStyle",
-        "nombreVideo": "NADA",
-        "dataInterval": "60000",
-        "fecha": "25/02/21",
-        "url": ""
-      },
-      {
-        "id": "06",
-        "cliente": "SkyTerra",
-        "nombreVideo": "PopUp salida 01 (unico video)",
-        "dataInterval": "12000",
-        "fecha": "17/04/21",
-        "url": "./img/Pop Up Skyterra 15 de abril 2021.mp4"
-      },
-      {
-        "id": "05",
-        "cliente": "LockStyle",
-        "nombreVideo": "NADA",
-        "dataInterval": "60000",
-        "fecha": "25/02/21",
-        "url": ""
-      },
-      {
-        "id": "02",
-        "cliente": "Maidana Prop",
-        "nombreVideo": "PopUp salida 01 (unico video)",
-        "dataInterval": "12000",
-        "fecha": "25/02/21",
-        "url": "./img/PopUp-Maidana.mp4"
-      },
-      {
-        "id": "03",
-        "cliente": "LockStyle",
-        "nombreVideo": "NADA",
-        "dataInterval": "60000",
-        "fecha": "25/02/21",
-        "url": ""
-      },
-      {
-        "id": "06",
-        "cliente": "SkyTerra",
-        "nombreVideo": "PopUp salida 01 (unico video)",
-        "dataInterval": "12000",
-        "fecha": "17/04/21",
-        "url": "./img/Pop Up Skyterra 15 de abril 2021.mp4"
-      },
-      {
-        "id": "05",
-        "cliente": "LockStyle",
-        "nombreVideo": "NADA",
-        "dataInterval": "60000",
-        "fecha": "25/02/21",
-        "url": ""
-      },
-      {
-        "id": "04",
-        "cliente": "Congelado Escobar",
-        "nombreVideo": "PopUp salida 01 (unico video)",
-        "dataInterval": "12000",
-        "fecha": "25/02/21",
-        "url": "./img/PopUp-BIOMAC_768x904 FEO.mp4"
-      },
-      {
-        "id": "05",
-        "cliente": "LockStyle",
-        "nombreVideo": "NADA",
-        "dataInterval": "60000",
-        "fecha": "25/02/21",
-        "url": ""
-      },
-      {
-        "id": "06",
-        "cliente": "SkyTerra",
-        "nombreVideo": "PopUp salida 02 (unico video)",
-        "dataInterval": "12000",
-        "fecha": "17/04/21",
-        "url": "./img/Pop Up Skyterra 15 de abril 2021.mp4"
-      },
-      {
-        "id": "05",
-        "cliente": "LockStyle",
-        "nombreVideo": "NADA",
-        "dataInterval": "60000",
-        "fecha": "25/02/21",
-        "url": ""
-      }
-    ]
+  "videos": [
+    {
+      "id": "00",
+      "cliente": "Materiales el Haras",
+      "nombreVideo": "PopUp salida 01 (unico video)",
+      "dataInterval": "12000",
+      "fecha": "25/02/21",
+      "url": "./img/PopUp-MaterialesHaras.mp4"
+    },
+    {
+      "id": "01",
+      "cliente": "LockStyle",
+      "nombreVideo": "NADA",
+      "dataInterval": "60000",
+      "fecha": "25/02/21",
+      "url": ""
+    },
+    {
+      "id": "06",
+      "cliente": "SkyTerra",
+      "nombreVideo": "PopUp salida 01 (unico video)",
+      "dataInterval": "12000",
+      "fecha": "13/06/2022",
+      "url": "./img/Skiterra-PopUp-06-2022.mp4"
+    },
+    {
+      "id": "05",
+      "cliente": "LockStyle",
+      "nombreVideo": "NADA",
+      "dataInterval": "60000",
+      "fecha": "25/02/21",
+      "url": ""
+    },
+    {
+      "id": "02",
+      "cliente": "Maidana Prop",
+      "nombreVideo": "PopUp salida 01 (unico video)",
+      "dataInterval": "12000",
+      "fecha": "25/02/21",
+      "url": "./img/PopUp-Maidana.mp4"
+    },
+    {
+      "id": "03",
+      "cliente": "LockStyle",
+      "nombreVideo": "NADA",
+      "dataInterval": "60000",
+      "fecha": "25/02/21",
+      "url": ""
+    },
+    {
+      "id": "06",
+      "cliente": "SkyTerra",
+      "nombreVideo": "PopUp salida 01 (unico video)",
+      "dataInterval": "12000",
+      "fecha": "13/06/2022",
+      "url": "./img/Skiterra-PopUp-06-2022.mp4"
+    },
+    {
+      "id": "05",
+      "cliente": "LockStyle",
+      "nombreVideo": "NADA",
+      "dataInterval": "60000",
+      "fecha": "25/02/21",
+      "url": ""
+    },
+    {
+      "id": "04",
+      "cliente": "Congelado Escobar",
+      "nombreVideo": "PopUp salida 01 (unico video)",
+      "dataInterval": "12000",
+      "fecha": "25/02/21",
+      "url": "./img/PopUp-BIOMAC_768x904 FEO.mp4"
+    },
+    {
+      "id": "05",
+      "cliente": "LockStyle",
+      "nombreVideo": "NADA",
+      "dataInterval": "60000",
+      "fecha": "25/02/21",
+      "url": ""
+    },
+    {
+      "id": "06",
+      "cliente": "SkyTerra",
+      "nombreVideo": "PopUp salida 01 (unico video)",
+      "dataInterval": "12000",
+      "fecha": "13/06/2022",
+      "url": "./img/Skiterra-PopUp-06-2022.mp4"
+    },
+    {
+      "id": "05",
+      "cliente": "LockStyle",
+      "nombreVideo": "NADA",
+      "dataInterval": "60000",
+      "fecha": "25/02/21",
+      "url": ""
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 body {
-    overflow-y: hidden;
+    overflow: hidden;
     background-color: #cecdce;
     box-sizing: border-box;
     margin: 0px;

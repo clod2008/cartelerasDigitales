@@ -1,26 +1,25 @@
-
 {
-    "videos": [
-      {
-        "id": "00",
-        "cliente": "HSM",
-        "nombreVideo": "Veliocidades maximas",
-        "fecha": "25/02/21",
-        "url": "./img/velMax.mp4"
-      },
-      {
-        "id": "01",
-        "cliente": "HSM",
-        "nombreVideo": "Nuevo Canal WhApp",
-        "fecha": "25/02/21",
-        "url": "./img/nuevoCanal.mp4"
-      },
-      {
-        "id": "02",
-        "cliente": "HSM",
-        "nombreVideo": "Cancha de futbol",
-        "fecha": "25/02/21",
-        "url": "./img/canchaDeFutbol.mp4"
-      }
-    ]
+  "videos": [
+    {
+      "id": "00",
+      "cliente": "HSM",
+      "nombreVideo": "Veliocidades maximas",
+      "fecha": "25/02/21",
+      "url": "./img/velMax.mp4"
+    },
+    {
+      "id": "01",
+      "cliente": "HSM",
+      "nombreVideo": "Nuevo Canal WhApp",
+      "fecha": "25/02/21",
+      "url": "./img/nuevoCanal.mp4"
+    },
+    {
+      "id": "02",
+      "cliente": "HSM",
+      "nombreVideo": "Operativo salud Julio 2022",
+      "fecha": "12/07/22",
+      "url": "./img/Vacunacion julio 2022.mp4"
+    }
+  ]
 }

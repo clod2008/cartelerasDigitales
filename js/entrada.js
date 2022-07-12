@@ -124,11 +124,11 @@ const imprimirListaUrlsCar01 = () => {
     // console.log(carouselP1Urls[i]);
     $("#slot01").append(
       '<div class="carousel-item" data-interval="500000">' +
-        '<video src="' +
-        carouselP1Urls[i] +
-        '"  muted autoplay loop class="d-block w-100">' +
-        '</video>'+
-        '</div>'
+      '<video src="' +
+      carouselP1Urls[i] +
+      '"  muted autoplay loop class="d-block w-100">' +
+      '</video>' +
+      '</div>'
     );
   }
 };
@@ -139,11 +139,11 @@ const imprimirListaUrlsCar02 = () => {
     // console.log(carouselP2Urls[i]);
     $("#slot02").append(
       '<div class="carousel-item" data-interval="500000">' +
-        '<video src="' +
-        carouselP2Urls[i] +
-        '"  muted autoplay loop class="d-block w-100">' +
-        '</video>'+
-        '</div>'
+      '<video src="' +
+      carouselP2Urls[i] +
+      '"  muted autoplay loop class="d-block w-100">' +
+      '</video>' +
+      '</div>'
     );
   }
 };
@@ -153,11 +153,11 @@ const imprimirListaUrlsCar03 = () => {
     // console.log(carouselP3Urls[i]);
     $("#slot03").append(
       '<div class="carousel-item" data-interval="500000">' +
-        '<video src="' +
-        carouselP3Urls[i] +
-        '"  muted autoplay loop class="d-block w-100">' +
-        '</video>'+
-        '</div>'
+      '<video src="' +
+      carouselP3Urls[i] +
+      '"  muted autoplay loop class="d-block w-100">' +
+      '</video>' +
+      '</div>'
     );
   }
 };
@@ -167,57 +167,58 @@ const imprimirListaUrlsPopUp = () => {
   for (var i = 0; i < popUpUrls.length; i++) {
     // console.log(popUpUrls[i]);
     $("#PopUp").append(
-      '<div class="carousel-item" data-interval=' + '"' + popUpInterval[i]+'">' +
+      '<div class="carousel-item" data-interval=' + '"' + popUpInterval[i] + '">' +
       // '<div class="marcoPopUp"></div>' +
       '<video src="' +
-        popUpUrls[i] +
-        '"  muted autoplay loop class="d-block w-100">' +
-        '</video>'+'</div>'
+      popUpUrls[i] +
+      '"  muted autoplay loop class="d-block w-100">' +
+      '</video>' + '</div>'
     );
   }
 };
 
 
-function lista () {
+function lista() {
   for (var i = 0; i < carouselP1Urls.length; i++) {
-      $("#listadoDeVideos").append(
-        '<div>' +
-          '<video src="' +
-          carouselP1Urls[i] +
-          '"  muted autoplay loop class="d-block w-100">' +
-          '</video>'+
-          '</div>'
-      );
-    };
-    for (var i = 0; i < carouselP2Urls.length; i++) {
-        $("#listadoDeVideos").append(
-          '<div>' +
-            '<video src="' +
-            carouselP2Urls[i] +
-            '"  muted autoplay loop class="d-block w-100">' +
-            '</video>'+
-            '</div>'
-        );
-      };
-      for (var i = 0; i < carouselP3Urls.length; i++) {
-          $("#listadoDeVideos").append(
-            '<div>' +
-              '<video src="' +
-              carouselP3Urls[i] +
-              '"  muted autoplay loop class="d-block w-100">' +
-              '</video>'+
-              '</div>'
-          );
-        };
-  }
+    $("#listadoDeVideos").append(
+      '<div>' +
+      '<video src="' +
+      carouselP1Urls[i] +
+      '"  muted autoplay loop class="d-block w-100">' +
+      '</video>' +
+      '</div>'
+    );
+  };
+  for (var i = 0; i < carouselP2Urls.length; i++) {
+    $("#listadoDeVideos").append(
+      '<div>' +
+      '<video src="' +
+      carouselP2Urls[i] +
+      '"  muted autoplay loop class="d-block w-100">' +
+      '</video>' +
+      '</div>'
+    );
+  };
+  for (var i = 0; i < carouselP3Urls.length; i++) {
+    $("#listadoDeVideos").append(
+      '<div>' +
+      '<video src="' +
+      carouselP3Urls[i] +
+      '"  muted autoplay loop class="d-block w-100">' +
+      '</video>' +
+      '</div>'
+    );
+  };
+}
 
 
 ///////// CONTADOR ////////
 function contador() {
   const contador = document.getElementById("contador");
-
+  console.log('fun contador');
   cont++;
   if (cont % 12 == 0) {
+    console.log('multiplo de 12');
     // <= define el intervalo en segundos
     // console.log("Tiempo");
     Siguiente();
@@ -238,10 +239,10 @@ function contador() {
 }
 setInterval("contador()", 1000); //Define lo que dura un segundo
 ///////// CONTADOR ////////
-     
 
 
-  
+
+
 
 
 

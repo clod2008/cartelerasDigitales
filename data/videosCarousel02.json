@@ -1,67 +1,25 @@
 {
-    "videos": [
-      {
-        "id": "08",
-        "cliente": "Sociales",
-        "nombreVideo": "Talleres Virtuales",
-        "fecha": "30/06/21",
-        "url": "./img/talleresComSociales_1.mp4"
-      },
-      {
-        "id": "09",
-        "cliente": "Vecinos",
-        "nombreVideo": "Buscamos a Micky",
-        "fecha": "23/08/21",
-        "url": "./img/gatoPerdidoAgosto.mp4"
-      },
-      {
-        "id": "06",
-        "cliente": "Canil",
-        "nombreVideo": "Canil 01 Fiona ",
-        "fecha": "11/05/21",
-        "url": "./img/Canil01_Fiona.mp4"
-      },
-      {
-        "id": "03",
-        "cliente": "HSM",
-        "nombreVideo": "Al virus los frenamos",
-        "fecha": "25/02/21",
-        "url": "./img/alVirusLoFrenamos.mp4"
-      },
-      {
-        "id": "09",
-        "cliente": "Vecinos",
-        "nombreVideo": "Buscamos a Micky",
-        "fecha": "23/08/21",
-        "url": "./img/gatoPerdidoAgosto.mp4"
-      },
-      {
-        "id": "07",
-        "cliente": "Canil",
-        "nombreVideo": "Canil 02 Akira ",
-        "fecha": "15/06/21",
-        "url": "./img/Canil03_Luna.mp4"
-      },
-      {
-        "id": "08",
-        "cliente": "Sociales",
-        "nombreVideo": "Talleres Virtuales",
-        "fecha": "30/06/21",
-        "url": "./img/talleresComSociales_1.mp4"
-      },
-      {
-        "id": "09",
-        "cliente": "Vecinos",
-        "nombreVideo": "Buscamos a Micky",
-        "fecha": "23/08/21",
-        "url": "./img/gatoPerdidoAgosto.mp4"
-      },
-      {
-        "id": "05",
-        "cliente": "HSM",
-        "nombreVideo": "Telefonos COVID",
-        "fecha": "25/02/21",
-        "url": "./img/telefonosCovid.mp4"
-      }
-    ]
+  "videos": [
+    {
+      "id": "01",
+      "cliente": "HSM",
+      "nombreVideo": "Al virus los frenamos",
+      "fecha": "25/02/21",
+      "url": "./img/alVirusLoFrenamos.mp4"
+    },
+    {
+      "id": "02",
+      "cliente": "HSM",
+      "nombreVideo": "Operativo salud Julio 2022",
+      "fecha": "12/07/22",
+      "url": "./img/Vacunacion julio 2022.mp4"
+    },
+    {
+      "id": "03",
+      "cliente": "HSM",
+      "nombreVideo": "Telefonos COVID",
+      "fecha": "25/02/21",
+      "url": "./img/telefonosCovid.mp4"
+    }
+  ]
 }
