@@ -63,38 +63,6 @@
       "dataInterval": "60000",
       "fecha": "25/02/21",
       "url": ""
-    },
-    {
-      "id": "04",
-      "cliente": "Congelado Escobar",
-      "nombreVideo": "PopUp salida 01 (unico video)",
-      "dataInterval": "12000",
-      "fecha": "25/02/21",
-      "url": "./img/PopUp-BIOMAC_768x904 FEO.mp4"
-    },
-    {
-      "id": "05",
-      "cliente": "LockStyle",
-      "nombreVideo": "NADA",
-      "dataInterval": "60000",
-      "fecha": "25/02/21",
-      "url": ""
-    },
-    {
-      "id": "06",
-      "cliente": "SkyTerra",
-      "nombreVideo": "PopUp salida 01 (unico video)",
-      "dataInterval": "12000",
-      "fecha": "13/06/2022",
-      "url": "./img/Skiterra-PopUp-06-2022.mp4"
-    },
-    {
-      "id": "05",
-      "cliente": "LockStyle",
-      "nombreVideo": "NADA",
-      "dataInterval": "60000",
-      "fecha": "25/02/21",
-      "url": ""
     }
   ]
 }

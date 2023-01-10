@@ -49,14 +49,6 @@
       "url": "./img/GM dental 768 x 452 Placa 1.mp4"
     },
     {
-      "id": "05",
-      "cliente": "CongeladosEscobar",
-      "nombreVideo": "salida01",
-      "sponsor": "plata",
-      "fecha": "8/02/21",
-      "url": "./img/Congelados Escobar spot 01.mp4"
-    },
-    {
       "id": "08",
       "cliente": "Maidana Prop",
       "nombreVideo": "salida02",
@@ -103,14 +95,6 @@
       "sponsor": "plata",
       "fecha": "8/04/21",
       "url": "./img/GM dental 768 x 452 Placa 2.mp4"
-    },
-    {
-      "id": "13",
-      "cliente": "CongeladosEscobar",
-      "nombreVideo": "salida02",
-      "sponsor": "plata",
-      "fecha": "8/02/21",
-      "url": "./img/Congelados Escobar spot 02.mp4"
     },
     {
       "id": "15",
