@@ -1,18 +1,11 @@
 {
   "videos": [
     {
-      "id": "01",
-      "cliente": "HSM",
-      "nombreVideo": "Al virus los frenamos",
-      "fecha": "25/02/21",
-      "url": "./img/alVirusLoFrenamos.mp4"
-    },
-    {
-      "id": "03",
-      "cliente": "HSM",
-      "nombreVideo": "Telefonos COVID",
-      "fecha": "25/02/21",
-      "url": "./img/telefonosCovid.mp4"
+      "id": "02",
+      "cliente": "Vecinos HSM",
+      "nombreVideo": "Busacamos a Cumulo",
+      "fecha": "24/01/23",
+      "url": "./img/buscamosACumulo.mp4"
     }
   ]
 }
